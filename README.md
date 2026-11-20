@@ -10,7 +10,8 @@ car flips over in flames at about 1:58), cut it together with the trailer's
 motorcycle-and-plane stunt, speedboat chase and sunset Vice City drive into a
 26-second vertical 9:16 clip with ffmpeg, and burned make.fun's pitch in as
 on-screen text at the end: "Make clips like this with AI and earn money on
-make.fun". The clip is a public YouTube Short on the channel @arxzii7, and
+make.fun". The clip is a public YouTube Short on the channel GTA 6 Moments
+(@gta6momentsid, https://www.youtube.com/shorts/FYGP-F4mzMM), and
 this repository hands in its address in VIDEO.json. Places go by the video's
 views at the deadline; the top 20 share $500. Source footage: Rockstar Games,
 Grand Theft Auto VI Trailer 2 (youtube.com/watch?v=VQRLujxTm3c), trimmed and
